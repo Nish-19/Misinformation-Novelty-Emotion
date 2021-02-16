@@ -1,5 +1,5 @@
 # Misinformation_Multitask_NES
-Code for the paper **"A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand."**
+Code for the paper **"What the Fake? Probing Misinformation Standing on the Shoulder of Novelty and Emotion."**
 
 Rina Kumari*, Nischal A\*, Tirthankar Ghoshal, Asif Ekbal
 
@@ -74,6 +74,6 @@ Contains code for generating co-occurance matrices which show the distribution o
 Our code is loosely based on the following   
 novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch    
 emotion_module - https://github.com/google-research/google-research/tree/master/goemotions   
-ESIM model - https://github.com/coetaur0/ESIM 
+ESIM model - https://github.com/coetaur0/ESIM
 
 Please Note - Due to constraints on the size of uploading the data and code we aren't able to provide with the pre-generated representations and predictions. Please generate it from scratch using the instructions given in the readme to run the final code.
