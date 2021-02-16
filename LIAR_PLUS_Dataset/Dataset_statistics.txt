@@ -1,0 +1,12 @@
+######TRAIN######
+Label Count Counter({1: 5713, 0: 4443})
+Statement Avg Length 17.968589996061443
+Justification Avg Length 72.6918077983458
+######TEST######
+Label Count Counter({1: 709, 0: 549})
+Statement Avg Length 18.243243243243242
+Justification Avg Length 74.758346581876
+######VAL######
+Label Count Counter({1: 666, 0: 614})
+Statement Avg Length 17.92421875
+Justification Avg Length 72.6046875

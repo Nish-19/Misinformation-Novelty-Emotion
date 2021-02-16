@@ -1,0 +1,1 @@
+ESIM data and Quora_Plain mus contain the embeddings and the prediction files that can be generated using the esim_code and the novelty_module on plain quora dataset.
