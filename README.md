@@ -60,6 +60,14 @@ python bert_classifier_klinger.py
 
 - Similarly for the other datasets
 
+### Fake Flow Model
+
+Reference - https://aclanthology.org/2021.eacl-main.56/
+
+'''python read_data.py'''
+
+'''python fake_flow.py'''
+
 ## Proposed_Model (Folder) -
 Contains the implementations of the final proposed model along with the supporting files
 
